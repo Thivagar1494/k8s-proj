@@ -4,7 +4,8 @@
   "description": "A simple Tic Tac Toe game.",
   "main": "index.html",
   "scripts": {
-    "start": "live-server --port=8080"
+    "start": "live-server --port=8080",
+    "build": "echo 'No build step required'"
   },
   "devDependencies": {
     "live-server": "^1.2.1"
